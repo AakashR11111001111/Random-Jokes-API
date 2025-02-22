@@ -19,7 +19,7 @@ This API provides random jokes in JSON format.
 
 ##### Step 1 
  ```sh {
-git clone <repo-link>
+git clone https://github.com/AakashR11111001111/Random-Jokes-API
 ```
 #### Step 2 
 ````sh {
