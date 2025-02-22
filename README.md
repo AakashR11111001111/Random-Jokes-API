@@ -7,6 +7,8 @@ This API provides random jokes in JSON format.
 ### Get a Random Joke  
 **GET** [`https://random-jokes-api-ynb4.onrender.com/jokes/random`](https://random-jokes-api-ynb4.onrender.com/jokes/random)  
 
+⚠ **Note:** This API is hosted on a free-tier service, so response times may vary. Sometimes it may take a few seconds to load the response. Please be patient! ⏳
+
 #### Example Response  
 ```json
 {
