@@ -13,3 +13,23 @@ This API provides random jokes in JSON format.
   "id": 1,
   "joke": "I told my boss three companies were after me. So he gave me a raise. Funny thing is, it was the electricity, water, and internet companies."
 }
+````
+
+## Installation
+
+##### Step 1 
+ ```sh {
+git clone <repo-link>
+```
+#### Step 2 
+````sh {
+cd project-folder
+````
+#### Step 3
+````sh{
+npm install
+````
+#### Step 4
+````sh{
+npm start
+````
